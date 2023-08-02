@@ -4,3 +4,4 @@ The 1-lisit script is used to display the content of your current working direct
 The file 2-bring_me_home is to change the working directory to the user's home directory
 The file 3-listfiles contains the script that displays current directory contents in a long format
 The file 4-listfiles contain the script to display contents including hidden contents in long format
+The file 5-listfilesdigitonly contains the script to display current directory content in long format with user and group IDs displayed numerically, and the hidden files.
