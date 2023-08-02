@@ -5,3 +5,4 @@ The file 2-bring_me_home is to change the working directory to the user's home d
 The file 3-listfiles contains the script that displays current directory contents in a long format
 The file 4-listfiles contain the script to display contents including hidden contents in long format
 The file 5-listfilesdigitonly contains the script to display current directory content in long format with user and group IDs displayed numerically, and the hidden files.
+File 6-firstdirectory contains the script to create a new directory in an existing directory.
