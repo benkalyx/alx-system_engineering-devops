@@ -10,3 +10,4 @@ File 7-movethatfile contains the script to move a file named betty from tmp dire
 File 8-firstdelete contains the script to delete a file in a directory. Usually an empty file.
 File 9-firstdirdeletion contains a shell script to delete a directory. usually an empty directory.
 Inside file 10-back is a script to change the working directory to the previous one.
+File 11-lists contains the script that lists all files in the working directory, parent directory, and the boot directory in a long format
