@@ -15,3 +15,4 @@ File 12-file-type is the shell scirpt to output a file type.
 file 13-symbolic_link is a script that creates a symbolic link to /bin/ls or to a file.
 file 14-copy_html is a shell script to copy all the HTML files from the current working directory to the parent of the WD which only copies files that did not exist in the parents of the working directory.
 File 101-clean_emacs is a shell script to clean and delete files.
+File 102-tree contains shell script to create directories
