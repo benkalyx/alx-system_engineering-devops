@@ -12,3 +12,4 @@ File 9-firstdirdeletion contains a shell script to delete a directory. usually a
 Inside file 10-back is a script to change the working directory to the previous one.
 File 11-lists contains the script that lists all files in the working directory, parent directory, and the boot directory in a long format.
 File 12-file-type is the shell scirpt to output a file type.
+file 13-symbolic_link is a script that creates a symbolic link to /bin/ls or to a file.
