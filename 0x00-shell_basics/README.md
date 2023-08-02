@@ -13,3 +13,4 @@ Inside file 10-back is a script to change the working directory to the previous 
 File 11-lists contains the script that lists all files in the working directory, parent directory, and the boot directory in a long format.
 File 12-file-type is the shell scirpt to output a file type.
 file 13-symbolic_link is a script that creates a symbolic link to /bin/ls or to a file.
+file 14-copy_html is a shell script to copy all the HTML files from the current working directory to the parent of the WD which only copies files that did not exist in the parents of the working directory.
