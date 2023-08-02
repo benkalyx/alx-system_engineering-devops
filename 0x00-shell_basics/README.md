@@ -7,3 +7,4 @@ The file 4-listfiles contain the script to display contents including hidden con
 The file 5-listfilesdigitonly contains the script to display current directory content in long format with user and group IDs displayed numerically, and the hidden files.
 File 6-firstdirectory contains the script to create a new directory in an existing directory.
 File 7-movethatfile contains the script to move a file named betty from tmp directory to a directory (my_first_directory) in tmp.
+File 8-firstdelete contains the script to delete a file in a directory. Usually an empty file.
