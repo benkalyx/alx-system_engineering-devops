@@ -8,3 +8,4 @@ The file 5-listfilesdigitonly contains the script to display current directory c
 File 6-firstdirectory contains the script to create a new directory in an existing directory.
 File 7-movethatfile contains the script to move a file named betty from tmp directory to a directory (my_first_directory) in tmp.
 File 8-firstdelete contains the script to delete a file in a directory. Usually an empty file.
+File 9-firstdirdeletion contains a shell script to delete a directory. usually an empty directory.
