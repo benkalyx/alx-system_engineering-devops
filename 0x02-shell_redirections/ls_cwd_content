@@ -1,0 +1,11 @@
+total 36
+4 -rwxrw-r-- 1 vagrant vagrant 47 Aug  7 09:41 0-hello_world
+4 -rwxrw-r-- 1 vagrant vagrant 28 Aug  7 09:54 1-confused_smiley
+4 -rwxrw-r-- 1 vagrant vagrant 29 Aug  7 10:04 2-hellofile
+4 -rwxrw-r-- 1 vagrant vagrant 36 Aug  7 10:13 4-lastlines
+4 -rwxrw-r-- 1 vagrant vagrant 36 Aug  7 10:16 5-firstlines
+4 -rwxrw-r-- 1 vagrant vagrant 44 Aug  7 10:28 6-third_line
+4 -rw-rw-r-- 1 vagrant vagrant 12 Aug  7 10:36 7-file
+0 -rw-rw-r-- 1 vagrant vagrant  0 Aug  7 10:58 ls_cwd_content
+4 -rw-rw-r-- 1 vagrant vagrant 92 Aug  7 09:45 README.md
+4 -rw-rw-r-- 1 vagrant vagrant 77 Aug  7 10:24 veb.txt
