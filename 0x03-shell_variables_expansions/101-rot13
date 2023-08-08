@@ -1,2 +1,2 @@
 #!/bin/bash
-alias rot13 = "tr 'A-Za''N-ZA-Mn-za-m'"
+echo "My name is Bernard Cypher"| tr 'A-Za''N-ZA-Mn-za-m'
